@@ -1,0 +1,16 @@
+{
+  "name": "@aplosdev/plugins",
+  "version": "0.0.1",
+  "description": "A collection of plugins for Aplos",
+  "main": "index.ts",
+  "keywords": [
+    "aplos",
+    "plugins"
+  ],
+  "author": "Gabriel Cozma",
+  "homepage": "https://aplosdev/plugins",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.77.8"
+  }
+}

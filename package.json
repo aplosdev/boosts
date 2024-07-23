@@ -1,6 +1,6 @@
 {
   "name": "@aplosdev/plugins",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of plugins for Aplos",
   "main": "index.ts",
   "keywords": [
@@ -13,5 +13,8 @@
   "license": "MIT",
   "dependencies": {
     "sass": "^1.77.8"
+  },
+  "publishConfig": {
+    "@aplosdev:registry": "https://npm.pkg.github.com"
   }
 }

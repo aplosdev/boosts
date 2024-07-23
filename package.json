@@ -9,6 +9,7 @@
   ],
   "author": "Gabriel Cozma",
   "homepage": "https://aplosdev/plugins",
+  "repository": "https://github.com/aplosdev/plugins.git",
   "license": "MIT",
   "dependencies": {
     "sass": "^1.77.8"

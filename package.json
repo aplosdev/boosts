@@ -1,6 +1,6 @@
 {
   "name": "@aplosdev/plugins",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A collection of plugins for Aplos",
   "main": "index.ts",
   "keywords": [

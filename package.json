@@ -1,20 +1,17 @@
 {
   "name": "@aplosdev/boosts",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A collection of boosts for Aplos",
   "main": "index.ts",
   "keywords": [
     "aplos",
-    "plugins"
+    "boosts"
   ],
   "author": "Gabriel Cozma",
-  "homepage": "https://aplosdev/plugins",
-  "repository": "https://github.com/aplosdev/plugins.git",
+  "homepage": "https://aplos.gxbs.me/boosts",
+  "repository": "https://github.com/aplosdev/boosts.git",
   "license": "MIT",
   "dependencies": {
     "sass": "^1.77.8"
-  },
-  "publishConfig": {
-    "@aplosdev:registry": "https://npm.pkg.github.com"
   }
 }

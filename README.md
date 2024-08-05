@@ -6,6 +6,9 @@
 > [!NOTE]
 > Check the list of available boosts on [the website](https://aplos.dev/boosts/).
 
+> [!WARNING]
+> This package is only available for the Aplós main theme, and it's not intended to be used as a standalone package. It only serves as a way to manage the boosts for the Aplós theme in an organized and separated way.
+
 ## Adding a Boost
 
 To add a boost, simply add the stylesheet to the `boosts` folder of this repository and import it in the `index.scss` file.

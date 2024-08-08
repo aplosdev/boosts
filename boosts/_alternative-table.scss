@@ -1,14 +1,16 @@
-table {
-    th,
-    tfoot {
-        background-color: var(--color-background-mute) !important;
-    }
-
-    tr {
-        background-color: var(--color-background-second) !important;
-
-        &:nth-child(2n) {
+.alt-tables {
+    table {
+        th,
+        tfoot {
             background-color: var(--color-background-mute) !important;
+        }
+
+        tr {
+            background-color: var(--color-background-second) !important;
+
+            &:nth-child(2n) {
+                background-color: var(--color-background-mute) !important;
+            }
         }
     }
 }

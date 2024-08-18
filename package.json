@@ -1,7 +1,7 @@
 {
   "name": "@aplosdev/boosts",
-  "version": "0.0.7",
-  "description": "A collection of boosts for Aplos",
+  "version": "1.0.0-rc.0",
+  "description": "A collection of boosts for Aplós",
   "main": "index.ts",
   "keywords": [
     "aplos",

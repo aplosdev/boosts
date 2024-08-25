@@ -4,7 +4,7 @@
 </div>
 
 > [!NOTE]
-> Check the list of available boosts on [the website](https://aplos.dev/boosts/).
+> Check the list of available boosts on [the website](https://aplos.gxbs.me/boosts/).
 
 > [!WARNING]
 > This package is only available for the Aplós main theme, and it's not intended to be used as a standalone package. It only serves as a way to manage the boosts for the Aplós theme in an organized and separated way.
